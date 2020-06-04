@@ -124,7 +124,7 @@
                                           </a>
 
                                         <a href="{{route('agenda.confirm', $Agendaitem->id)}}" class="btn btn-danger btncolorblanco">
-                                            <i class="fa fa-trash-alt"></i> Eliminar
+                                            <i class="fa fa-trash-alt"></i> Eliminar registro
                                           </a>
                                       </td>
 
